@@ -1,2 +1,2 @@
 # little_games
-小游戏
+一些小游戏
